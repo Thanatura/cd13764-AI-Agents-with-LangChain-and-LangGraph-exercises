@@ -1,0 +1,14 @@
+[project]
+name = "cd13764-ai-agents-with-langchain-and-langgraph-exercises"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.10",
+    "langchain-groq>=1.1.2",
+    "langgraph>=1.0.10",
+    "sqlalchemy>=2.0.48",
+]
